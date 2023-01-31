@@ -8,10 +8,10 @@ have used moment.js library file to work with date and time.
 
 # Deployed Link:
 
-
+https://kalpana-sivaprakash.github.io/module-07-challenge/
 
 # Repository Link:
-
+https://github.com/Kalpana-Sivaprakash/module-07-challenge
 
 ## Installation
 N/A
@@ -20,8 +20,8 @@ N/A
 ## Usage 
 This is the simple calendar application used to save the events or information on hourly basis.
 
-![screenshot](assets/image/SC1.PNG)
-![screenshot]
+![screenshot](assets/images/Calendar1.PNG)
+![screenshot](assets/images/Calendar2.PNG)
 
 
 ## Credits
